@@ -1,0 +1,26 @@
+.heading{
+    text-align: center;
+}
+
+.team{
+    float: left;
+    width: 33%;
+}
+#parv{
+    text-align: left;
+}
+#diana{
+    text-align: center;
+}
+#larry{
+    text-align: right;
+}
+.last{
+    text-align: center;
+}
+p{
+    color: grey;
+}
+.clearfix{
+    clear: left;
+}
